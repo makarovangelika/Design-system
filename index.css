@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Nanum Gothic", sans-serif;
+}
+h1 {
+    font-family: "Poppins", sans-serif;
+    margin-left: 20px;
+}
+.color-box {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin: 5px;
+}
+.purple {
+    background-color: #8c0a65;
+    color: white;
+}
+.sandy-yellow {
+    background-color: #dbbc0f;
+}
+.fuchsia {
+    background-color: #d925a3;
+}
+.sea-blue {
+    background-color: #0fd5d9;
+}
+.teal {
+    background-color: #0a8d8f;
+    color: white;
+}
+section {
+    border: 2px solid gray;
+    padding: 0 20px 20px;
+    margin: 20px;
+}
+.font-box {
+    display: inline-block;
+    width: 45%;
+    margin: 5px;
+}
+.nanum-gothic {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.ibm-plex-sans-arabic {
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+.poppins {
+    font-family: "Poppins", sans-serif;
+}
+.font-label {
+    text-decoration: underline;
+    font-size: 20px;
+}
+.bold {
+    font-weight: 700;
+}
+.italic {
+    font-style: italic;
+}
